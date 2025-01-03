@@ -2,6 +2,6 @@
 ## Pequeño programa utilizando pyfiglet y colorama para desear un feliz 2025
 
 
-""" 
+'''
 pip install -r requirements.txt
-"""
+'''
